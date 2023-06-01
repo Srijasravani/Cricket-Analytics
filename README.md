@@ -33,4 +33,4 @@ Some data cleaning operations are performed on the "name" column in df_players u
 The df_players DataFrame is saved as a CSV file named "players_no_images.csv" using df_players.to_csv().
 
 
-Developed a comprehensive Power BI report leveraging data extraction from espncricinfo via the sophisticated Brightdata website tool. Employing the versatile functionalities of pandas, the extracted data was meticulously cleansed, transformed, and evaluated through an array of player performance metrics. Subsequently, the Power BI dashboard emerged as a valuable resource in discerning the optimal composition of the T20 cricket team, encompassing distinct categories such as openers, middle-order anchors, finishers, all-rounders, and specialist fast bowlers. With the astute selection made via the Power BI dashboard, the team's probability of clinching victory skyrocketed to an impressive 90%.
+
